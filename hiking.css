@@ -13,6 +13,7 @@ body {
     padding: 1rem;
   }
   
+  /* ID selector */
   #logo {
     font-size: 2rem;
     color: #008080;
@@ -30,6 +31,7 @@ body {
     margin-right: 1rem;
   }
   
+  /* Class selector */
   .nav-link {
     color: #fff;
     text-decoration: none;
@@ -51,6 +53,7 @@ body {
     font-size: 2.5rem;
   }
   
+  /* Class selector */
   .cta-button {
     background-color: #008080;
     color: #fff;
